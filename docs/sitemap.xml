@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://blog.clojuredays.org/posts/dcd17-budget/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/tags/budget/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/categories/budget/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/categories/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/tags/clojure/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/categories/clojure/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/tags/clojuredays/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/categories/clojuredays/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/tags/conference/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/categories/conference/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/posts/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.clojuredays.org/tags/</loc>
+    <lastmod>2017-03-31T15:18:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

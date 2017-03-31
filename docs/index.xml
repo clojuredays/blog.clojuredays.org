@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clojure Days</title>
+    <link>http://blog.clojuredays.org/</link>
+    <description>Recent content on Clojure Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 15:18:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.clojuredays.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DCD17 Budget</title>
+      <link>http://blog.clojuredays.org/posts/dcd17-budget/</link>
+      <pubDate>Fri, 31 Mar 2017 15:18:35 +0200</pubDate>
+      
+      <guid>http://blog.clojuredays.org/posts/dcd17-budget/</guid>
+      <description>Out    Expenses Amount     Venue Parking € 55.96   Venue Cost € 860.00   Catering prepaid amount € 800.00   Catering to be payed after € 790.00   T-shirts? Staff € 126.07   Roll-Up € 59.00   Brochures € 116.00   Speaker Expenses € 432.40   Speakers Gift € 1,125.00   Speakers Dinner € 666.</description>
+    </item>
+    
+  </channel>
+</rss>

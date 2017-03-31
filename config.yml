@@ -1,0 +1,28 @@
+---
+baseURL: "http://blog.clojuredays.org/"
+languageCode: "en-us"
+title: "Clojure Days"
+subtitle: "clojuredays.org"
+theme: "hyde"
+
+layoutdir: "layouts"
+contentdir: "content"
+publishdir: "docs"
+
+params:
+  description: "Official blog for clojuredays.org conference."
+
+menu:
+  main:
+      - Name: "Homepage"
+        Weight: 0
+        URL: "http://clojuredays.org/"
+      - Name: "Archives"
+        Weight: 1
+        URL: "/post/"
+      - Name: "Email"
+        Weight: 2
+        URL: "mailto:events@clojuredays.org"
+      - Name: "RSS feed"
+        Weight: 3
+        URL: "http://blog.gonzih.me/index.xml"

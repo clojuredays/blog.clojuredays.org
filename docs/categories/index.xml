@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Clojure Days</title>
+    <link>http://blog.clojuredays.org/categories/</link>
+    <description>Recent content in Categories on Clojure Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 15:18:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.clojuredays.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Budget</title>
+      <link>http://blog.clojuredays.org/categories/budget/</link>
+      <pubDate>Fri, 31 Mar 2017 15:18:35 +0200</pubDate>
+      
+      <guid>http://blog.clojuredays.org/categories/budget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clojure</title>
+      <link>http://blog.clojuredays.org/categories/clojure/</link>
+      <pubDate>Fri, 31 Mar 2017 15:18:35 +0200</pubDate>
+      
+      <guid>http://blog.clojuredays.org/categories/clojure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clojuredays</title>
+      <link>http://blog.clojuredays.org/categories/clojuredays/</link>
+      <pubDate>Fri, 31 Mar 2017 15:18:35 +0200</pubDate>
+      
+      <guid>http://blog.clojuredays.org/categories/clojuredays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://blog.clojuredays.org/categories/conference/</link>
+      <pubDate>Fri, 31 Mar 2017 15:18:35 +0200</pubDate>
+      
+      <guid>http://blog.clojuredays.org/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
