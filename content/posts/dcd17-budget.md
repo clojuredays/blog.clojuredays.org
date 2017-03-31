@@ -2,7 +2,7 @@
 Categories = ["Clojure","ClojureDays","Conference","Budget"]
 Description = ""
 Tags = ["Clojure","ClojureDays","Conference","Budget"]
-date = "2017-03-31T15:18:35+02:00"
+date = "2017-03-31T21:41:32+02:00"
 menu = "main"
 title = "DCD17 Budget"
 
